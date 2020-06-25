@@ -46,7 +46,7 @@ def populateLibrary(originalDictName="cj5-tc.txt", finalDictName="dictionary.jso
             step_1 = step_0[0]
             step_2 = step_0[1]
             step_3 = ""
-            step_4 = " "
+            step_4 = ""
 
             # This is an ascii -> cangjie converter
             for char in step_1:
@@ -57,7 +57,7 @@ def populateLibrary(originalDictName="cj5-tc.txt", finalDictName="dictionary.jso
             for char in step_2:
                 char = char.replace("\n", "")
                 print(char)
-                step_4 += char
+                step_4 += char.decode()
 
             final_db_key_temp = "Demo_{lineNo}"
             final_db_key = final_db_key_temp.format(lineNo=num)
@@ -68,6 +68,5 @@ def populateLibrary(originalDictName="cj5-tc.txt", finalDictName="dictionary.jso
     with codecs.open(finalDictName, "w", "utf-8") as dictionary:
         json.dump(final_db_list, dictionary, ensure_ascii=False)
 
-
-populateLibrary(originalDictName="cj5-tc.txt", finalDictName="dictionary.json")
+# populateLibrary(originalDictName="cj5-tc.txt", finalDictName="dictionary2.json")
 

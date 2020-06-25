@@ -1,0 +1,674 @@
+[
+    {
+        "Name": "script.txt_0",
+        "Words": "青安城郊",
+        "Inputs_ASCII": "qmb jv gihs yknl ",
+        "Inputs_Separated": "手一月 十女 土戈竹尸 卜大弓中 "
+    },
+    {
+        "Name": "script.txt_1",
+        "Words": "月黑風高",
+        "Inputs_ASCII": "b wgf hnhli yrbr ",
+        "Inputs_Separated": "月 田土火 竹弓竹中戈 卜口月口 "
+    },
+    {
+        "Name": "script.txt_2",
+        "Words": "明月高挂",
+        "Inputs_ASCII": "ab b yrbr qgg ",
+        "Inputs_Separated": "日月 月 卜口月口 手土土 "
+    },
+    {
+        "Name": "script.txt_3",
+        "Words": "寥無人影",
+        "Inputs_ASCII": "jsmh otf o afhhh ",
+        "Inputs_Separated": "十尸一竹 人廿火 人 日火竹竹竹 "
+    },
+    {
+        "Name": "script.txt_4",
+        "Words": "一家破舊的客棧",
+        "Inputs_ASCII": "m jmso mrdhe togx hapi jher dii ",
+        "Inputs_Separated": "一 十一尸人 一口木竹水 廿人土難 竹日心戈 十竹水口 木戈戈 "
+    },
+    {
+        "Name": "script.txt_5",
+        "Words": "漆黑一片",
+        "Inputs_ASCII": "edoe wgf m llml ",
+        "Inputs_Separated": "水木人水 田土火 一 中中一中 "
+    },
+    {
+        "Name": "script.txt_6",
+        "Words": "微弱的燭光",
+        "Inputs_ASCII": "houuk nmnim hapi fsei fmu ",
+        "Inputs_Separated": "竹人山山大 弓一弓戈一 竹日心戈 火尸水戈 火一山 "
+    },
+    {
+        "Name": "script.txt_7",
+        "Words": "背影",
+        "Inputs_ASCII": "lpb afhhh ",
+        "Inputs_Separated": "中心月 日火竹竹竹 "
+    },
+    {
+        "Name": "script.txt_8",
+        "Words": "滄桑",
+        "Inputs_ASCII": "eoir eeed ",
+        "Inputs_Separated": "水人戈口 水水水木 "
+    },
+    {
+        "Name": "script.txt_9",
+        "Words": "老邁",
+        "Inputs_ASCII": "jkp ytwb ",
+        "Inputs_Separated": "十大心 卜廿田月 "
+    },
+    {
+        "Name": "script.txt_10",
+        "Words": "皺紋",
+        "Inputs_ASCII": "pudhe vfyk ",
+        "Inputs_Separated": "心山木竹水 女火卜大 "
+    },
+    {
+        "Name": "script.txt_11",
+        "Words": "邋遢",
+        "Inputs_ASCII": "xyvvv yasm ",
+        "Inputs_Separated": "難卜女女女 卜日尸一 "
+    },
+    {
+        "Name": "script.txt_12",
+        "Words": "披頭散髮",
+        "Inputs_ASCII": "qdhe mtmbc tbok shikk ",
+        "Inputs_Separated": "手木竹水 一廿一月金 廿月人大 尸竹戈大大 "
+    },
+    {
+        "Name": "script.txt_13",
+        "Words": "盤腿",
+        "Inputs_ASCII": "hebt byav ",
+        "Inputs_Separated": "竹水月廿 月卜日女 "
+    },
+    {
+        "Name": "script.txt_14",
+        "Words": "一把生鏽的劍",
+        "Inputs_ASCII": "m qau hqm clx hapi ooln ",
+        "Inputs_Separated": "一 手日山 竹手一 金中難 竹日心戈 人人中弓 "
+    },
+    {
+        "Name": "script.txt_15",
+        "Words": "出乎意料",
+        "Inputs_ASCII": "uu hfd ytap fdyj ",
+        "Inputs_Separated": "山山 竹火木 卜廿日心 火木卜十 "
+    },
+    {
+        "Name": "script.txt_16",
+        "Words": "一位青年",
+        "Inputs_ASCII": "m oyt qmb oq ",
+        "Inputs_Separated": "一 人卜廿 手一月 人手 "
+    },
+    {
+        "Name": "script.txt_17",
+        "Words": "桌上",
+        "Inputs_ASCII": "yad ym ",
+        "Inputs_Separated": "卜日木 卜一 "
+    },
+    {
+        "Name": "script.txt_18",
+        "Words": "一小壺酒",
+        "Inputs_ASCII": "m nc gblm emcw ",
+        "Inputs_Separated": "一 弓金 土月中一 水一金田 "
+    },
+    {
+        "Name": "script.txt_19",
+        "Words": "自酌自飲",
+        "Inputs_ASCII": "hbu mwpi hbu oino ",
+        "Inputs_Separated": "竹月山 一田心戈 竹月山 人戈弓人 "
+    },
+    {
+        "Name": "script.txt_20",
+        "Words": "正所謂",
+        "Inputs_ASCII": "mylm hshml yrwb ",
+        "Inputs_Separated": "一卜中一 竹尸竹一中 卜口田月 "
+    },
+    {
+        "Name": "script.txt_21",
+        "Words": "舉杯邀明月",
+        "Inputs_ASCII": "hcq dmf yhsk ab b ",
+        "Inputs_Separated": "竹金手 木一火 卜竹尸大 日月 月 "
+    },
+    {
+        "Name": "script.txt_22",
+        "Words": "對影成三人",
+        "Inputs_ASCII": "tgdi afhhh ihs mmm o ",
+        "Inputs_Separated": "廿土木戈 日火竹竹竹 戈竹尸 一一一 人 "
+    },
+    {
+        "Name": "script.txt_23",
+        "Words": "究竟是何等心事",
+        "Inputs_ASCII": "jckn ytahu amyo omnr hgdi p jlln ",
+        "Inputs_Separated": "十金大弓 卜廿日竹山 日一卜人 人一弓口 竹土木戈 心 十中中弓 "
+    },
+    {
+        "Name": "script.txt_24",
+        "Words": "一飲而盡",
+        "Inputs_ASCII": "m oino mbll lmfbt ",
+        "Inputs_Separated": "一 人戈弓人 一月中中 中一火月廿 "
+    },
+    {
+        "Name": "script.txt_25",
+        "Words": "大喊三聲",
+        "Inputs_ASCII": "k rihr mmm gesj ",
+        "Inputs_Separated": "大 口戈竹口 一一一 土水尸十 "
+    },
+    {
+        "Name": "script.txt_26",
+        "Words": "好酒",
+        "Inputs_ASCII": "vnd emcw ",
+        "Inputs_Separated": "女弓木 水一金田 "
+    },
+    {
+        "Name": "script.txt_27",
+        "Words": "好酒",
+        "Inputs_ASCII": "vnd emcw ",
+        "Inputs_Separated": "女弓木 水一金田 "
+    },
+    {
+        "Name": "script.txt_28",
+        "Words": "好酒",
+        "Inputs_ASCII": "vnd emcw ",
+        "Inputs_Separated": "女弓木 水一金田 "
+    },
+    {
+        "Name": "script.txt_29",
+        "Words": "突然",
+        "Inputs_ASCII": "jcik bkf ",
+        "Inputs_Separated": "十金戈大 月大火 "
+    },
+    {
+        "Name": "script.txt_30",
+        "Words": "只見青年一轉身",
+        "Inputs_ASCII": "rc buhu qmb oq m jjjii hxh ",
+        "Inputs_Separated": "口金 月山竹山 手一月 人手 一 十十十戈戈 竹難竹 "
+    },
+    {
+        "Name": "script.txt_31",
+        "Words": "酒杯",
+        "Inputs_ASCII": "emcw dmf ",
+        "Inputs_Separated": "水一金田 木一火 "
+    },
+    {
+        "Name": "script.txt_32",
+        "Words": "一甩",
+        "Inputs_ASCII": "m bqu ",
+        "Inputs_Separated": "一 月手山 "
+    },
+    {
+        "Name": "script.txt_33",
+        "Words": "如最銳利的飛刀",
+        "Inputs_ASCII": "vr asje ccru hdln hapi hwnoo sh ",
+        "Inputs_Separated": "女口 日尸十水 金金口山 竹木中弓 竹日心戈 竹田弓人人 尸竹 "
+    },
+    {
+        "Name": "script.txt_34",
+        "Words": "打向",
+        "Inputs_ASCII": "qmn hbr ",
+        "Inputs_Separated": "手一弓 竹月口 "
+    },
+    {
+        "Name": "script.txt_35",
+        "Words": "木柱",
+        "Inputs_ASCII": "d dyg ",
+        "Inputs_Separated": "木 木卜土 "
+    },
+    {
+        "Name": "script.txt_36",
+        "Words": "白光一閃",
+        "Inputs_ASCII": "ha fmu m ano ",
+        "Inputs_Separated": "竹日 火一山 一 日弓人 "
+    },
+    {
+        "Name": "script.txt_37",
+        "Words": "酒杯",
+        "Inputs_ASCII": "emcw dmf ",
+        "Inputs_Separated": "水一金田 木一火 "
+    },
+    {
+        "Name": "script.txt_38",
+        "Words": "空中",
+        "Inputs_ASCII": "jcm l ",
+        "Inputs_Separated": "十金一 中 "
+    },
+    {
+        "Name": "script.txt_39",
+        "Words": "一分二",
+        "Inputs_ASCII": "m csh mm ",
+        "Inputs_Separated": "一 金尸竹 一一 "
+    },
+    {
+        "Name": "script.txt_40",
+        "Words": "青年哈哈一笑",
+        "Inputs_ASCII": "qmb oq romr romr m hhk ",
+        "Inputs_Separated": "手一月 人手 口人一口 口人一口 一 竹竹大 "
+    },
+    {
+        "Name": "script.txt_41",
+        "Words": "道",
+        "Inputs_ASCII": "ythu ",
+        "Inputs_Separated": "卜廿竹山 "
+    },
+    {
+        "Name": "script.txt_42",
+        "Words": "大名鼎鼎",
+        "Inputs_ASCII": "k nir buvml buvml ",
+        "Inputs_Separated": "大 弓戈口 月山女一中 月山女一中 "
+    },
+    {
+        "Name": "script.txt_43",
+        "Words": "金玉羅",
+        "Inputs_ASCII": "c mgi wlvfg ",
+        "Inputs_Separated": "金 一土戈 田中女火土 "
+    },
+    {
+        "Name": "script.txt_44",
+        "Words": "鬼鬼祟祟",
+        "Inputs_ASCII": "hui hui uummf uummf ",
+        "Inputs_Separated": "竹山戈 竹山戈 山山一一火 山山一一火 "
+    },
+    {
+        "Name": "script.txt_45",
+        "Words": "縮頭烏龜一樣",
+        "Inputs_ASCII": "vfjoa mtmbc hryf nxu m dtge ",
+        "Inputs_Separated": "女火十人日 一廿一月金 竹口卜火 弓難山 一 木廿土水 "
+    },
+    {
+        "Name": "script.txt_46",
+        "Words": "難道是",
+        "Inputs_ASCII": "toog ythu amyo ",
+        "Inputs_Separated": "廿人人土 卜廿竹山 日一卜人 "
+    },
+    {
+        "Name": "script.txt_47",
+        "Words": "滴酒不敢沾",
+        "Inputs_ASCII": "eycb emcw mf mjok eyr ",
+        "Inputs_Separated": "水卜金月 水一金田 一火 一十人大 水卜口 "
+    },
+    {
+        "Name": "script.txt_48",
+        "Words": "陰影中",
+        "Inputs_ASCII": "nloii afhhh l ",
+        "Inputs_Separated": "弓中人戈戈 日火竹竹竹 中 "
+    },
+    {
+        "Name": "script.txt_49",
+        "Words": "傳出一陣",
+        "Inputs_ASCII": "ojii uu m nljwj ",
+        "Inputs_Separated": "人十戈戈 山山 一 弓中十田十 "
+    },
+    {
+        "Name": "script.txt_50",
+        "Words": "不男不女",
+        "Inputs_ASCII": "mf wks mf v ",
+        "Inputs_Separated": "一火 田大尸 一火 女 "
+    },
+    {
+        "Name": "script.txt_51",
+        "Words": "不高不低",
+        "Inputs_ASCII": "mf yrbr mf ohpm ",
+        "Inputs_Separated": "一火 卜口月口 一火 人竹心一 "
+    },
+    {
+        "Name": "script.txt_52",
+        "Words": "不老不幼",
+        "Inputs_ASCII": "mf jkp mf viks ",
+        "Inputs_Separated": "一火 十大心 一火 女戈大尸 "
+    },
+    {
+        "Name": "script.txt_53",
+        "Words": "陰陰濕濕",
+        "Inputs_ASCII": "nloii nloii eavf eavf ",
+        "Inputs_Separated": "弓中人戈戈 弓中人戈戈 水日女火 水日女火 "
+    },
+    {
+        "Name": "script.txt_54",
+        "Words": "難聽至極",
+        "Inputs_ASCII": "toog sgjwp mig dmem ",
+        "Inputs_Separated": "廿人人土 尸土十田心 一戈土 木一水一 "
+    },
+    {
+        "Name": "script.txt_55",
+        "Words": "回應",
+        "Inputs_ASCII": "wr iogp ",
+        "Inputs_Separated": "田口 戈人土心 "
+    },
+    {
+        "Name": "script.txt_56",
+        "Words": "道",
+        "Inputs_ASCII": "ythu ",
+        "Inputs_Separated": "卜廿竹山 "
+    },
+    {
+        "Name": "script.txt_57",
+        "Words": "哪有東道主",
+        "Inputs_ASCII": "rsql kb dw ythu yg ",
+        "Inputs_Separated": "口尸手中 大月 木田 卜廿竹山 卜土 "
+    },
+    {
+        "Name": "script.txt_58",
+        "Words": "請人喝酒",
+        "Inputs_ASCII": "yrqmb o rapv emcw ",
+        "Inputs_Separated": "卜口手一月 人 口日心女 水一金田 "
+    },
+    {
+        "Name": "script.txt_59",
+        "Words": "卻會空杯相迎？",
+        "Inputs_ASCII": "crsl omwa jcm dmf dbu yhvl zxai ",
+        "Inputs_Separated": "金口尸中 人一田日 十金一 木一火 木月山 卜竹女中 Z難日戈 "
+    },
+    {
+        "Name": "script.txt_60",
+        "Words": "青年",
+        "Inputs_ASCII": "qmb oq ",
+        "Inputs_Separated": "手一月 人手 "
+    },
+    {
+        "Name": "script.txt_61",
+        "Words": "笑道",
+        "Inputs_ASCII": "hhk ythu ",
+        "Inputs_Separated": "竹竹大 卜廿竹山 "
+    },
+    {
+        "Name": "script.txt_62",
+        "Words": "不請自來",
+        "Inputs_ASCII": "mf yrqmb hbu doo ",
+        "Inputs_Separated": "一火 卜口手一月 竹月山 木人人 "
+    },
+    {
+        "Name": "script.txt_63",
+        "Words": "也",
+        "Inputs_ASCII": "pd ",
+        "Inputs_Separated": "心木 "
+    },
+    {
+        "Name": "script.txt_64",
+        "Words": "不是什好客人",
+        "Inputs_ASCII": "mf amyo oj vnd jher o ",
+        "Inputs_Separated": "一火 日一卜人 人十 女弓木 十竹水口 人 "
+    },
+    {
+        "Name": "script.txt_65",
+        "Words": "金玉羅",
+        "Inputs_ASCII": "c mgi wlvfg ",
+        "Inputs_Separated": "金 一土戈 田中女火土 "
+    },
+    {
+        "Name": "script.txt_66",
+        "Words": "答道",
+        "Inputs_ASCII": "homr ythu ",
+        "Inputs_Separated": "竹人一口 卜廿竹山 "
+    },
+    {
+        "Name": "script.txt_67",
+        "Words": "廢話少",
+        "Inputs_ASCII": "inoe yrhjr fh ",
+        "Inputs_Separated": "戈弓人水 卜口竹十口 火竹 "
+    },
+    {
+        "Name": "script.txt_68",
+        "Words": "東西交出來",
+        "Inputs_ASCII": "dw mcw yck uu doo ",
+        "Inputs_Separated": "木田 一金田 卜金大 山山 木人人 "
+    },
+    {
+        "Name": "script.txt_69",
+        "Words": "饒你不死",
+        "Inputs_ASCII": "oiggu onf mf mnp ",
+        "Inputs_Separated": "人戈土土山 人弓火 一火 一弓心 "
+    },
+    {
+        "Name": "script.txt_70",
+        "Words": "青年",
+        "Inputs_ASCII": "qmb oq ",
+        "Inputs_Separated": "手一月 人手 "
+    },
+    {
+        "Name": "script.txt_71",
+        "Words": "臉露難色",
+        "Inputs_ASCII": "bomo mbrmr toog nau ",
+        "Inputs_Separated": "月人一人 一月口一口 廿人人土 弓日山 "
+    },
+    {
+        "Name": "script.txt_72",
+        "Words": "苦笑",
+        "Inputs_ASCII": "tjr hhk ",
+        "Inputs_Separated": "廿十口 竹竹大 "
+    },
+    {
+        "Name": "script.txt_73",
+        "Words": "回道",
+        "Inputs_ASCII": "wr ythu ",
+        "Inputs_Separated": "田口 卜廿竹山 "
+    },
+    {
+        "Name": "script.txt_74",
+        "Words": "可我",
+        "Inputs_ASCII": "mnr hqi ",
+        "Inputs_Separated": "一弓口 竹手戈 "
+    },
+    {
+        "Name": "script.txt_75",
+        "Words": "不知道",
+        "Inputs_ASCII": "mf okr ythu ",
+        "Inputs_Separated": "一火 人大口 卜廿竹山 "
+    },
+    {
+        "Name": "script.txt_76",
+        "Words": "什東西",
+        "Inputs_ASCII": "oj dw mcw ",
+        "Inputs_Separated": "人十 木田 一金田 "
+    },
+    {
+        "Name": "script.txt_77",
+        "Words": "金玉羅",
+        "Inputs_ASCII": "c mgi wlvfg ",
+        "Inputs_Separated": "金 一土戈 田中女火土 "
+    },
+    {
+        "Name": "script.txt_78",
+        "Words": "冷哼",
+        "Inputs_ASCII": "imoii ryrn ",
+        "Inputs_Separated": "戈一人戈戈 口卜口弓 "
+    },
+    {
+        "Name": "script.txt_79",
+        "Words": "到了今時",
+        "Inputs_ASCII": "mgln nn oin adi ",
+        "Inputs_Separated": "一土中弓 弓弓 人戈弓 日木戈 "
+    },
+    {
+        "Name": "script.txt_80",
+        "Words": "油嘴滑舌",
+        "Inputs_ASCII": "elw rypb ebbb hjr ",
+        "Inputs_Separated": "水中田 口卜心月 水月月月 竹十口 "
+    },
+    {
+        "Name": "script.txt_81",
+        "Words": "不見棺材不流淚",
+        "Inputs_ASCII": "mf buhu djrr ddh mf eyiu ebu ",
+        "Inputs_Separated": "一火 月山竹山 木十口口 木木竹 一火 水卜戈山 水月山 "
+    },
+    {
+        "Name": "script.txt_82",
+        "Words": "閃電一般",
+        "Inputs_ASCII": "ano mblwu m hyhne ",
+        "Inputs_Separated": "日弓人 一月中田山 一 竹卜竹弓水 "
+    },
+    {
+        "Name": "script.txt_83",
+        "Words": "飛來",
+        "Inputs_ASCII": "hwnoo doo ",
+        "Inputs_Separated": "竹田弓人人 木人人 "
+    },
+    {
+        "Name": "script.txt_84",
+        "Words": "一劍",
+        "Inputs_ASCII": "m ooln ",
+        "Inputs_Separated": "一 人人中弓 "
+    },
+    {
+        "Name": "script.txt_85",
+        "Words": "雪白",
+        "Inputs_ASCII": "mbsm ha ",
+        "Inputs_Separated": "一月尸一 竹日 "
+    },
+    {
+        "Name": "script.txt_86",
+        "Words": "風未到",
+        "Inputs_ASCII": "hnhli jd mgln ",
+        "Inputs_Separated": "竹弓竹中戈 十木 一土中弓 "
+    },
+    {
+        "Name": "script.txt_87",
+        "Words": "人先至",
+        "Inputs_ASCII": "o hghu mig ",
+        "Inputs_Separated": "人 竹土竹山 一戈土 "
+    },
+    {
+        "Name": "script.txt_88",
+        "Words": "劍尖",
+        "Inputs_ASCII": "ooln fk ",
+        "Inputs_Separated": "人人中弓 火大 "
+    },
+    {
+        "Name": "script.txt_89",
+        "Words": "直指",
+        "Inputs_ASCII": "jbmm qpa ",
+        "Inputs_Separated": "十月一一 手心日 "
+    },
+    {
+        "Name": "script.txt_90",
+        "Words": "膻中",
+        "Inputs_ASCII": "bywm l ",
+        "Inputs_Separated": "月卜田一 中 "
+    },
+    {
+        "Name": "script.txt_91",
+        "Words": "青年",
+        "Inputs_ASCII": "qmb oq ",
+        "Inputs_Separated": "手一月 人手 "
+    },
+    {
+        "Name": "script.txt_92",
+        "Words": "不知何時",
+        "Inputs_ASCII": "mf okr omnr adi ",
+        "Inputs_Separated": "一火 人大口 人一弓口 日木戈 "
+    },
+    {
+        "Name": "script.txt_93",
+        "Words": "劍已在手",
+        "Inputs_ASCII": "ooln su klg q ",
+        "Inputs_Separated": "人人中弓 尸山 大中土 手 "
+    },
+    {
+        "Name": "script.txt_94",
+        "Words": "輕輕",
+        "Inputs_ASCII": "jjmvm jjmvm ",
+        "Inputs_Separated": "十十一女一 十十一女一 "
+    },
+    {
+        "Name": "script.txt_95",
+        "Words": "一彈",
+        "Inputs_ASCII": "m nrrj ",
+        "Inputs_Separated": "一 弓口口十 "
+    },
+    {
+        "Name": "script.txt_96",
+        "Words": "倒退",
+        "Inputs_ASCII": "omgn yav ",
+        "Inputs_Separated": "人一土弓 卜日女 "
+    },
+    {
+        "Name": "script.txt_97",
+        "Words": "不慌不忙",
+        "Inputs_ASCII": "mf ptyu mf pyv ",
+        "Inputs_Separated": "一火 心廿卜山 一火 心卜女 "
+    },
+    {
+        "Name": "script.txt_98",
+        "Words": "笑吟吟",
+        "Inputs_ASCII": "hhk roin roin ",
+        "Inputs_Separated": "竹竹大 口人戈弓 口人戈弓 "
+    },
+    {
+        "Name": "script.txt_99",
+        "Words": "由上至下",
+        "Inputs_ASCII": "lw ym mig my ",
+        "Inputs_Separated": "中田 卜一 一戈土 一卜 "
+    },
+    {
+        "Name": "script.txt_100",
+        "Words": "說道",
+        "Inputs_ASCII": "yrcru ythu ",
+        "Inputs_Separated": "卜口金口山 卜廿竹山 "
+    },
+    {
+        "Name": "script.txt_101",
+        "Words": "好個",
+        "Inputs_ASCII": "vnd owjr ",
+        "Inputs_Separated": "女弓木 人田十口 "
+    },
+    {
+        "Name": "script.txt_102",
+        "Words": "秀麗",
+        "Inputs_ASCII": "hdnhs mmbbp ",
+        "Inputs_Separated": "竹木弓竹尸 一一月月心 "
+    },
+    {
+        "Name": "script.txt_103",
+        "Words": "美人胚子",
+        "Inputs_ASCII": "tgk o bmfm nd ",
+        "Inputs_Separated": "廿土大 人 月一火一 弓木 "
+    },
+    {
+        "Name": "script.txt_104",
+        "Words": "卻見",
+        "Inputs_ASCII": "crsl buhu ",
+        "Inputs_Separated": "金口尸中 月山竹山 "
+    },
+    {
+        "Name": "script.txt_105",
+        "Words": "金玉羅",
+        "Inputs_ASCII": "c mgi wlvfg ",
+        "Inputs_Separated": "金 一土戈 田中女火土 "
+    },
+    {
+        "Name": "script.txt_106",
+        "Words": "臉孔",
+        "Inputs_ASCII": "bomo ndu ",
+        "Inputs_Separated": "月人一人 弓木山 "
+    },
+    {
+        "Name": "script.txt_107",
+        "Words": "滿佈疤痕",
+        "Inputs_ASCII": "etlb oklb kau kav ",
+        "Inputs_Separated": "水廿中月 人大中月 大日山 大日女 "
+    },
+    {
+        "Name": "script.txt_108",
+        "Words": "五官不正",
+        "Inputs_ASCII": "mdm jrlr mf mylm ",
+        "Inputs_Separated": "一木一 十口中口 一火 一卜中一 "
+    },
+    {
+        "Name": "script.txt_109",
+        "Words": "臉露怒色",
+        "Inputs_ASCII": "bomo mbrmr vep nau ",
+        "Inputs_Separated": "月人一人 一月口一口 女水心 弓日山 "
+    },
+    {
+        "Name": "script.txt_110",
+        "Words": "提劍",
+        "Inputs_ASCII": "qamo ooln ",
+        "Inputs_Separated": "手日一人 人人中弓 "
+    },
+    {
+        "Name": "script.txt_111",
+        "Words": "殺",
+        "Inputs_ASCII": "kchne ",
+        "Inputs_Separated": "大金竹弓水 "
+    }
+]
